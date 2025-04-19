@@ -12,3 +12,8 @@ streamlit run app.py
 6.	Open the .scad file using OpenSCAD to view the model.
 7.	To convert to .stl:
 openscad -o model.stl model.scad
+
+![Screenshot (62)](https://github.com/user-attachments/assets/5b76fa4e-332d-4733-9880-1b2fb1f4cedf)
+
+![Screenshot (64)](https://github.com/user-attachments/assets/ca6ccc8c-e95a-4d52-b1d2-c5fcc3a56441)
+
