@@ -17,3 +17,7 @@ openscad -o model.stl model.scad
 
 ![Screenshot (64)](https://github.com/user-attachments/assets/ca6ccc8c-e95a-4d52-b1d2-c5fcc3a56441)
 
+Here is link to the demo video:
+
+https://drive.google.com/file/d/1U8FO8yZ9ci8oskYiOftj_wTtx-6-P699/view?usp=drive_link
+
