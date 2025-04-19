@@ -9,7 +9,7 @@ user_input = st.text_input("Enter your prompt (e.g., 'Create a 3D bracket')")
 if user_input:
     # OpenRouter client setup
     client = OpenAI(
-        api_key="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",  # <-- Yahan apni actual API key daal
+        api_key="your own api key", 
         base_url="https://openrouter.ai/api/v1"
     )
     
