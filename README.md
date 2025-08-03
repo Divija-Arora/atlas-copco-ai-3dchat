@@ -23,5 +23,8 @@ https://drive.google.com/file/d/1U8FO8yZ9ci8oskYiOftj_wTtx-6-P699/view?usp=drive
 
 
 #### Tech-Stack
- Python, OpenSCAD, OpenAI GPT, Streamlit 
+- Python
+- OpenSCAD
+- OpenAI GPT
+- Streamlit 
 
